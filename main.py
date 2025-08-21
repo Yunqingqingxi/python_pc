@@ -1,3 +1,2 @@
-# 伞兵rcy
-# 傻鸟rcy
-# 我是shabircy
+# 最初的开始(真正的)
+print("hello world")
